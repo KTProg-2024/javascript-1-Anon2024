@@ -2,3 +2,27 @@ p {
 	font-family: Arial;
 	color: red;
 }
+.green {
+  background-color: green;
+  color: white;
+}
+.cat {
+  background-color: #fc03db;
+  color: #ffffff;
+}
+.red {
+  background-color: #ff0000;
+  color: #000000;
+}
+.dog {
+  background-color: #008cff;
+  color: #000000;
+}
+.purple {
+  background-color: #9500ff;
+  color: #ffffff;
+}
+.armadillo {
+  background-color: #ff7300;
+  color: #000000;
+}
